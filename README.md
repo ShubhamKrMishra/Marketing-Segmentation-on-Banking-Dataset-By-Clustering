@@ -3,6 +3,8 @@ For this particular case study, the task involves formulating customer segmentat
 
 
 The attribute information, or data dictionary, for the customer's credit card dataset is as follows:
+
+
 <b> CUSTID :</b> Identification of Credit Card holder (Categorical)<br>
 <b>BALANCE :</b> Balance amount left in their account to make purchases<br>
 <b>BALANCEFREQUENCY :</b> How frequently the Balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)<br>
